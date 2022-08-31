@@ -1,0 +1,16 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) throws Exception {
+        //input
+        //to read input, use in.readLine(); to read each line
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+
+        // write your code here
+
+        //print your answer here
+        System.out.println(insert your answer);
+    }
+}
